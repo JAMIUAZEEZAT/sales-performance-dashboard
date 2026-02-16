@@ -1,2 +1,5 @@
-# sales-performance-dashboard
-Excel Sales Dashboard for data analysis practice
+sales-performance-dashboard/
+│
+├── Sales_Dashboard.xlsx
+├── dashboard-screenshot.png
+└── README.md
