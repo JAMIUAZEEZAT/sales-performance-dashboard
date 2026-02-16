@@ -1,5 +1,4 @@
-sales-performance-dashboard/
-│
-├── Sales_Dashboard.xlsx
-├── dashboard-screenshot.png
-└── README.md
+## Dashboard Preview
+
+![Sales Dashboard](dashboard-screenshot.png)
+ 
